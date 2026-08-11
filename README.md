@@ -94,7 +94,7 @@ The project will then be available locally through the Vite development server.
 
 ## 📸 Preview
 
-![Website Preview](https://github.com/user-attachments/assets/875a67f5-54fa-42b6-9020-5c7a6f1da05d)
+https://github.com/user-attachments/assets/875a67f5-54fa-42b6-9020-5c7a6f1da05d
 
 ## 👩‍💻 Author
 
